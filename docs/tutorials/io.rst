@@ -37,7 +37,7 @@ touched. So, you can tickle your device to make it laugh like this::
 
 With one hand, hold your device by the GND pin. Then, with your other hand,
 touch (or tickle) the 0 (zero) pin. You should see the display change from
-grumpy to happy!
+grumpy to happy!  The device is sensitive to short circuiting between the pins, so you may wish to use corcodile clips or pins.
 
 This is a form of very basic input measurement. However, the fun really starts
 when you plug in circuits and other devices via the pins.
