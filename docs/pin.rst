@@ -184,14 +184,6 @@ its own to that.
         microseconds. The minimum valid value is 256µs.
 
 
-.. py:class:: MicroBitAnalogDigitalPin
-
-    .. py:method:: read_analog()
-
-        Read the voltage applied to the pin, and return it as an integer
-        between 0 (meaning 0V) and 1023 (meaning 3.3V).
-
-
 .. py:class:: MicroBitTouchPin
 
     .. py:method:: is_touched()
